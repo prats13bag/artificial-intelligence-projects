@@ -1,9 +1,9 @@
 _Course Project of CS411: Artificial Intelligence - 1_
 ======================================================================
 
-_Instructor:_ [Prof. Brian Ziebart](https://www.cs.uic.edu/Ziebart)
+_**Instructor:**_ [Prof. Brian Ziebart](https://www.cs.uic.edu/Ziebart)
 
-_Team Members:_
+_**Team Members:**_
 
     •	 Kislaya Singh: ksingh38@uic.edu
     •	 Pratyush Bagaria: pbagar2@uic.edu
@@ -16,23 +16,20 @@ The Pac-Man projects were developed for UC Berkeley's artificial intelligence co
 
 
 
-[Project 1: Search in Pac-Man](http://ai.berkeley.edu/search.html)
+[Project 1: Search in Pac-Man](http://ai.berkeley.edu/search.html) _**Autograder Score: 25/25**_
 
 Built general search algorithms and applied them to Pacman scenarios.
-Autograder Score - 25/25
 
 
 [Project 2: Multiagent Pac-Man](http://ai.berkeley.edu/multiagent.html)
 
-[Project 3: Reinforcement Learning](http://ai.berkeley.edu/reinforcement.html)
+[Project 3: Reinforcement Learning](http://ai.berkeley.edu/reinforcement.html) _**Autograder Score: 25/25**_
 
 Implemented value iteration and Q-learning.
-Autograder Score - 25/25
 
 
 [Project 4: Ghostbusters](http://ai.berkeley.edu/tracking.html)
 
-[Project 5: Classification](http://ai.berkeley.edu/classification.html)
+[Project 5: Classification](http://ai.berkeley.edu/classification.html) _**Autograder Score: 25/25**_
     
 Designed three classifiers: a perceptron classifier, a large-margin (MIRA) classifier, and a slightly modified perceptron classifier for behavioral cloning.
-Autograder Score - 25/25
