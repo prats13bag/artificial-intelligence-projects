@@ -21,21 +21,25 @@ _**List of projects:**_
 
 Built general search algorithms and applied them to Pacman scenarios.
 
+---
 
 [_**Project 2: Multiagent Pac-Man**_](http://ai.berkeley.edu/multiagent.html) - Autograder Score: 25/25
 
 Designed agents for the classic version of Pacman, including ghosts. Implemented both minimax and expectimax search and tried hand at evaluation function design.
 
+---
 
 [_**Project 3: Reinforcement Learning**_](http://ai.berkeley.edu/reinforcement.html) - Autograder Score: 25/25
 
 Implemented value iteration and Q-learning.
 
+---
 
 [_**Project 4: Ghostbusters**_](http://ai.berkeley.edu/tracking.html) - Autograder Score: 25/25
 
 Designed Pacman agents that uses sensors to locate and eat invisible ghosts.
 
+---
 
 [_**Project 5: Classification**_](http://ai.berkeley.edu/classification.html) - Autograder Score: 25/25
     
