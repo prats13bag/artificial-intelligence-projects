@@ -16,20 +16,20 @@ The Pac-Man projects were developed for UC Berkeley's artificial intelligence co
 
 
 
-[Project 1: Search in Pac-Man](http://ai.berkeley.edu/search.html) _**Autograder Score: 25/25**_
+[_**Project 1: Search in Pac-Man**_](http://ai.berkeley.edu/search.html) _**Autograder Score: 25/25**_
 
 Built general search algorithms and applied them to Pacman scenarios.
 
 
-[Project 2: Multiagent Pac-Man](http://ai.berkeley.edu/multiagent.html)
+[_**Project 2: Multiagent Pac-Man**_](http://ai.berkeley.edu/multiagent.html)
 
-[Project 3: Reinforcement Learning](http://ai.berkeley.edu/reinforcement.html) _**Autograder Score: 25/25**_
+[_**Project 3: Reinforcement Learning**_](http://ai.berkeley.edu/reinforcement.html) _**Autograder Score: 25/25**_
 
 Implemented value iteration and Q-learning.
 
 
-[Project 4: Ghostbusters](http://ai.berkeley.edu/tracking.html)
+[_**Project 4: Ghostbusters**_](http://ai.berkeley.edu/tracking.html)
 
-[Project 5: Classification](http://ai.berkeley.edu/classification.html) _**Autograder Score: 25/25**_
+[_**Project 5: Classification**_](http://ai.berkeley.edu/classification.html) _**Autograder Score: 25/25**_
     
 Designed three classifiers: a perceptron classifier, a large-margin (MIRA) classifier, and a slightly modified perceptron classifier for behavioral cloning.
