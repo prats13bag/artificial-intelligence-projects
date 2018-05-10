@@ -17,9 +17,13 @@ The Pac-Man projects were developed for UC Berkeley's artificial intelligence co
 Index of Projects:
 
 [Project 1: Search in Pac-Man](http://ai.berkeley.edu/search.html)
+
 [Project 2: Multiagent Pac-Man](http://ai.berkeley.edu/multiagent.html)
+
 [Project 3: Reinforcement Learning](http://ai.berkeley.edu/reinforcement.html)
+
 [Project 4: Ghostbusters](http://ai.berkeley.edu/tracking.html)
+
 [Project 5: Classification](http://ai.berkeley.edu/classification.html)
     
 
